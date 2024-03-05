@@ -1,0 +1,52 @@
+# Drivers
+winget install -e --id Intel.IntelDriverAndSupportAssistant;
+winget install -e --id Nvidia.GeForceExperience;
+winget install -e --id Nvidia.PhysX;
+
+# Work
+winget install -e --id Unity.UnityHub;
+winget install -e --id Microsoft.VisualStudio.2022.Community.Preview;
+winget install -e --id zokugun.MrCode;
+winget install -e --id GitHub.cli;
+winget install -e --id GitHub.GitLFS;
+winget install -e --id GitHub.GitHubDesktop;
+winget install -e --id Atlassian.Sourcetree;
+
+# Office stuff
+winget install -e --id M2Team.NanaZip;
+winget install -e --id ONLYOFFICE.DesktopEditors;
+winget install -e --id KDE.Okular.Nightly;
+winget install -e --id Notepad++.Notepad++;
+winget install -e --id Automattic.Simplenote;
+
+# Windows Utility
+winget install -e --id Microsoft.WindowsTerminal.Preview;
+winget install -e --id SomePythonThings.WingetUIStore;
+winget install -e --id FilesCommunity.Files;
+winget install -e --id QL-Win.QuickLook;
+winget install -e --id Microsoft.PowerToys;
+winget install -e --id Flameshot.Flameshot;
+winget install -e --id xanderfrangos.twinkletray;
+winget install -e --id AutoHotkey.AutoHotkey;
+winget install -e --id ProtonTechnologies.ProtonVPN;
+winget install -e --id Klocman.BulkCrapUninstaller;
+
+# Basics
+winget install -e --id Brave.Brave;
+winget install -e --id dotPDNLLC.paintdotnet;
+winget install -e --id DuongDieuPhap.ImageGlass;
+winget install -e --id yang991178.fluent-reader;
+winget install -e --id AppbyTroye.KoodoReader;
+winget install -e --id PeterPawlowski.foobar2000;
+winget install -e --id KRTirtho.Spotube;
+winget install -e --id VideoLAN.VLC;
+winget install -e --id PrestonN.FreeTube;
+winget install -e --id mikf.gallery-dl;
+winget install -e --id yt-dlp.yt-dlp;
+winget install -e --id Gyan.FFmpeg;
+winget install -e --id GianlucaPernigotto.Videomass;
+
+# Gaming
+winget install -e --id Valve.Steam;
+winget install -e --id EpicGames.EpicGamesLauncher;
+winget install -e --id Guru3D.Afterburner;
